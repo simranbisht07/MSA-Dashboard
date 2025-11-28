@@ -1,13 +1,13 @@
 # MSA-Dashboard
-## 📱 Motorola Sales Performance Dashboard
+1. ## 📱 Motorola Sales Performance Dashboard
 
 A dynamic and interactive Power BI dashboard designed to analyze Motorola’s nationwide sales performance—focusing on city-level insights, brand contributions, customer behavior, and payment trends.
 
-### 📝 Short Description / Purpose
+2. ### 📝 Short Description / Purpose
 
 The Motorola Sales Dashboard is an insightful Power BI report built to explore and evaluate sales performance across major Indian cities, mobile brands, and device models. The dashboard helps business teams, analysts, and decision-makers understand sales distribution, customer ratings, model popularity, and payment preferences. It enables data-driven strategies for marketing, inventory planning, and regional growth.
 
-### 🛠 Tech Stack
+3. ### 🛠 Tech Stack
 
 This dashboard was built using the following tools and technologies:
 
@@ -18,7 +18,7 @@ This dashboard was built using the following tools and technologies:
 📁 File Formats – .pbix for dashboard file, .xlsx for dataset, .png for dashboard preview
 
 
-### 📚 Data Source
+4. ### 📚 Data Source
 Source: Excel sales dataset collected for Motorola’s sales performance analysis.
 
 The dataset includes detailed sales transactions containing:
@@ -33,8 +33,8 @@ The dataset includes detailed sales transactions containing:
 -Date, Month, Day Name
 This dataset represents 4,000+ transactions, multiple mobile brands, major Indian cities, and a wide variety of device models.
 
-### ⭐ Features & Highlights
-### 📌 Business Problem
+5. ### ⭐ Features & Highlights
+## 📌 Business Problem
 
 Motorola and smartphone retailers need a clear understanding of how different regions, models, and payment methods contribute to total sales.
 Questions like:
@@ -44,7 +44,7 @@ Questions like:
 -Which days generate the highest sales?
 … are difficult to answer using raw transactional data.
 
-### 🎯 Goal of the Dashboard
+## 🎯 Goal of the Dashboard
 
 To deliver a fully interactive Power BI dashboard that:
 -Highlights Motorola’s sales performance across India
@@ -53,7 +53,7 @@ To deliver a fully interactive Power BI dashboard that:
 -Reveals customer satisfaction patterns using ratings
 -Supports business teams in decision-making for marketing, supply chain, and promotions
 
-### 🔍 Walkthrough of Key Visuals
+6 ### 🔍 Walkthrough of Key Visuals
 📌 Key KPIs (Top Row)
 -Total Sales: ₹769M
 -Total Quantity Sold: 19K units
@@ -61,14 +61,14 @@ To deliver a fully interactive Power BI dashboard that:
 -Average Sales: ₹40K
 These KPIs immediately summarize business performance.
 
-### 🗺 Sales by City (Map Visualization)
+## 🗺 Sales by City (Map Visualization)
 
 An interactive map displays sales across major Indian cities like:
 Mumbai • Delhi • Hyderabad • Bengaluru • Lucknow • Kolkata • Jaipur • Chennai
 
 Key insight: Major metropolitan cities drive the highest revenue.
 
-### 📈 Total Quantity by Month (Line Chart)
+## 📈 Total Quantity by Month (Line Chart)
 
 Shows monthly trends and seasonality in customer demand.
 Peak seasons identified through monthly quantity variations.
@@ -108,7 +108,7 @@ Examples:
 Analyzes weekly sales trends.
 Insight: Weekends show higher sales performance compared to weekdays.
 
-##📊 Business Impact & Insights
+7. ### 📊 Business Impact & Insights
 
 📌 Marketing Optimization
 Business teams can identify which models and cities need targeted promotions.
@@ -125,7 +125,7 @@ Cities like Mumbai, Hyderabad, and Delhi dominate sales—helping allocate budge
 📌 Strategic Decision Making
 Day-wise and month-wise trends enable planning for campaigns and seasonal stock management.
 
-### 🏁 Final Summary
+8. ### 🏁 Final Summary
 
 The Motorola Sales Performance Dashboard provides a powerful, interactive view of sales performance across regions, brands, and device models. With strong DAX calculations, Power BI modeling, and high-quality visuals, this report enables:
 -Better marketing and sales planning
@@ -135,6 +135,7 @@ The Motorola Sales Performance Dashboard provides a powerful, interactive view o
 This dashboard demonstrates how Power BI can turn raw Excel data into a complete business intelligence solution.
 
 
-### Screenshots/Demos
-Show what the dasboard looks loke 
+9. ### Screenshots/Demos
+Show what the dasboard looks like https://github.com/simranbisht07/MSA-Dashboard/blob/main/Snapshot-MSA-Dashboard.png
+
 
